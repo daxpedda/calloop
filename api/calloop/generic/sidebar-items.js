@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["FdWrapper","Wrapper to use a type implementing `AsRawFd` but not `AsFd` with `Generic`"],["Generic","A generic event source wrapping a FD-backed type"]]};
